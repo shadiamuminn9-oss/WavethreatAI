@@ -1,50 +1,48 @@
-# Wave Threat AI 🛡️
+# Wave Threat AI 🖤💻✨
 
-**Wave Threat AI** is a **free, interactive AI-powered malware analysis dashboard**.  
-It combines **real-time malware scanning**, **risk visualization**, and a **smart AI agent** that explains threats, gives recommendations, and reacts dynamically with an animated avatar and text-to-speech (TTS).  
+**Wave Threat AI** is an **advanced AI-powered malware analysis dashboard** designed for cybersecurity enthusiasts, researchers, and developers.  
+It combines **real-time malware scanning**, **interactive visualizations**, and a **smart AI agent** that explains threats, recommends actions, and reacts dynamically with an animated avatar and text-to-speech.
 
-This project is perfect for cybersecurity enthusiasts, developers, and researchers who want a professional, portfolio-ready AI dashboard.
+This project delivers a **professional, sleek, and futuristic user experience**, showcasing a sophisticated security dashboard in action.
 
 ---
 
 ## 🌟 Key Features
 
 ### Malware Analysis
-- Upload any file and analyze it for:
-  - Risk score
-  - Suspicious indicators
-  - Entropy analysis
-  - PE executable detection
-  - Script detection (PowerShell, VBS, batch, etc.)
+- Analyze uploaded files for:
+  - Risk score and threat type
+  - Suspicious keywords and indicators
+  - High-entropy detection and file structure
+  - Executable and script file detection
 
 ### Smart AI Agent
-- Powered by a **local LLM** (GPT4All, Vicuna) + **LangChain**
-- Reads malware analysis results
+- Powered by a **local LLM** with LangChain  
+- Reads malware analysis results  
 - Provides:
-  - Technical explanation
-  - Simplified explanation
-  - Actionable advice for prevention
+  - Clear technical explanation
+  - Simplified user-friendly explanation
+  - Actionable mitigation steps
 - Answers follow-up questions interactively
 
 ### Interactive Dashboard
-- Built with **Streamlit** for easy layout and user interface
-- **Plotly** charts for threat breakdown and trend visualization
-- Live **risk index** and **event feed**
-- Animated **avatar** reacts to risk levels
-- TTS reads AI explanations in real-time
-
-### Free & Offline Option
-- Uses local LLM models — no API costs required
-- Fully functional offline
-- Optional upgrade to OpenAI GPT-4 for higher-quality responses
+- Built with **Streamlit** for modern layout and easy navigation  
+- **Plotly** charts for threat breakdown and trends  
+- Live **risk index** and **event feed**  
+- Animated **avatar** reacts to risk levels  
+- Text-to-speech reads AI explanations in real-time
 
 ### Futuristic Design
-- Dark theme with neon highlights
-- Animated scanning GIFs
-- Interactive and intuitive layout
-- Professional look suitable for portfolios or demos
+- Dark theme with neon highlights  
+- Animated scanning GIFs  
+- Intuitive layout with professional aesthetics  
+- Portfolio-ready interface  
 
 ---
+
+## 🏗 Project Structure
+
+
 
 ## 🏗 Project Structure
 
